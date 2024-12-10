@@ -17,7 +17,8 @@ As our initial release of the stage 1 of AIDO, we have completed the pretraining
 * AIDO.Protein
 * AIDO.StructureTokenizer
 * AIDO.Cell
-There pretrained foundation models and the correpsonding software stack for adapting these pretrained models and generating downstream task models are released as following repository:
+  
+These pretrained foundation models and the correpsonding software stack for adapting these models and generating downstream task models are released as the following repository:
 
 [ModelGenerator](https://github.com/genbio-ai/ModelGenerator)
 
@@ -36,3 +37,7 @@ federated data mining, and the never-fading demand for synthetic biology and per
 we believe a new community of users and developers of an AIDO can emerge and grow from this open-
 source effort as we have seen in the LLM field, to together pursue the common vision of mirroring life
 in the physical world on a computer with AI. 
+
+For more information on how to build an AI-Driven Digital Organism (AIDO), please also refer to this position paper: 
+
+Le Song, Eran Segal, and E. P. Xing, Toward AI-Driven Digital Organism: Multiscale Foundation Models for Predicting, Simulating, and Programming Biology at All Levels, A position paper, [arXiv:6027409](https://www.cs.cmu.edu/~epxing/papers/2025/AIDO.pdf), 2024.
