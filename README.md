@@ -1,4 +1,4 @@
-# AIDO
+# AIDO: AI-Driven Digital Organism
 
 An AI-Driven Digital Organism (AIDO) is a system of integrated multiscale foundation models for predicting, simulating and programming biology at all levels. It is constructed in a modular, connectable, and holistic fashion to reflect biological scales, connectedness, and complexities. 
 
