@@ -40,4 +40,4 @@ in the physical world on a computer with AI.
 
 For more information on how to build an AI-Driven Digital Organism (AIDO), please also refer to this position paper: 
 
-Le Song, Eran Segal, and E. P. Xing, Toward AI-Driven Digital Organism: Multiscale Foundation Models for Predicting, Simulating, and Programming Biology at All Levels, A position paper, [arXiv:6027409](https://arxiv.org/pdf/2412.06993), 2024.
+Le Song, Eran Segal, and E. P. Xing, Toward AI-Driven Digital Organism: Multiscale Foundation Models for Predicting, Simulating, and Programming Biology at All Levels, A position paper, [arXiv:2412.06993](https://arxiv.org/pdf/2412.06993), 2024.
