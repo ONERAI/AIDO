@@ -18,9 +18,9 @@ As our initial release of the stage 1 of AIDO, we have completed the pretraining
 * AIDO.StructureTokenizer
 * AIDO.Cell
   
-These pretrained foundation models and the correpsonding downstream utility layer for adapting these models and generating downstream task models are currently released as the MondelGenerator repository:
+These pretrained foundation models and the correpsonding downstream utility layer for adapting these models and generating downstream task models are currently released as the AIDO.ModelGenerator repository:
 
-[ModelGenerator](https://github.com/genbio-ai/ModelGenerator)
+[AIDO.ModelGenerator](https://github.com/genbio-ai/ModelGenerator)
 
 Realizing the AIDO vision requires long-term, continuous, and sustainable development and commu-
 nity efforts. In fostering such an effort, we shall make the weights of certain matured version of the
