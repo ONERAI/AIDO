@@ -22,6 +22,10 @@ These pretrained foundation models and the correpsonding downstream utility laye
 
 [AIDO.ModelGenerator](https://github.com/genbio-ai/ModelGenerator)
 
+and Hugging Face model checkpoints: 
+
+https://huggingface.co/genbio-ai
+
 Realizing the AIDO vision requires long-term, continuous, and sustainable development and commu-
 nity efforts. In fostering such an effort, we shall make the weights of certain matured version of the
 models and the adaptation software packages publicly available for reproducibility, community build-
